@@ -1,0 +1,901 @@
+message_id,category,confidence,reason
+MSG_0001,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0002,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0003,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0004,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0005,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0006,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0007,Action Required,0.75,The sender is asking the recipient to respond to a message or request.
+MSG_0008,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0009,Personal Information,0.85,The message contains information about a personal emergency contact.
+MSG_0010,Action Required,0.75,The sender is asking the recipient to make a payment or pay a bill.
+MSG_0011,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0012,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0013,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0014,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0015,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0016,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0017,Action Required,0.75,The sender is asking the recipient to renew something before the given deadline.
+MSG_0018,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0019,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0020,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0021,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0022,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0023,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0024,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0025,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0026,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0027,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0028,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0029,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0030,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0031,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0032,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0033,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0034,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0035,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0036,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0037,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0038,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0039,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0040,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0041,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0042,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0043,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0044,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0045,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0046,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0047,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0048,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0049,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0050,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0051,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0052,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0053,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0054,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0055,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0056,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0057,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0058,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0059,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0060,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0061,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0062,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0063,Action Required,0.75,The sender is asking the recipient to renew something before the given deadline.
+MSG_0064,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0065,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0066,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0067,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0068,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0069,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0070,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0071,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0072,Action Required,0.75,The sender is asking the recipient to renew something before the given deadline.
+MSG_0073,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0074,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0075,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0076,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0077,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0078,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0079,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0080,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0081,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0082,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0083,Action Required,0.75,The sender is asking the recipient to renew something before the given deadline.
+MSG_0084,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0085,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0086,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0087,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0088,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0089,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0090,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0091,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0092,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0093,Personal Information,0.8,The message contains information about a personal emergency contact.
+MSG_0094,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0095,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0096,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0097,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0098,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0099,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0100,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0101,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0102,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0103,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0104,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0105,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0106,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0107,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0108,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0109,Personal Information,0.85,The message contains information about a personal emergency contact.
+MSG_0110,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0111,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0112,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0113,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0114,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0115,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0116,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0117,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0118,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0119,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0120,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0121,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0122,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0123,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0124,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0125,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0126,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0127,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0128,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0129,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0130,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0131,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0132,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0133,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0134,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0135,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0136,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0137,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0138,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0139,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0140,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0141,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0142,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0143,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0144,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0145,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0146,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0147,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0148,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0149,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0150,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0151,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0152,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0153,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0154,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0155,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0156,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0157,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0158,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0159,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0160,Action Required,0.75,The sender is asking the recipient to submit required work or information.
+MSG_0161,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0162,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0163,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0164,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0165,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0166,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0167,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0168,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0169,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0170,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0171,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0172,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0173,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0174,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0175,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0176,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0177,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0178,Action Required,0.75,The sender is asking the recipient to renew something before the given deadline.
+MSG_0179,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0180,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0181,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0182,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0183,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0184,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0185,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0186,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0187,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0188,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0189,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0190,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0191,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0192,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0193,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0194,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0195,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0196,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0197,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0198,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0199,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0200,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0201,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0202,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0203,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0204,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0205,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0206,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0207,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0208,Action Required,0.75,The sender is asking the recipient to submit required work or information.
+MSG_0209,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0210,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0211,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0212,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0213,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0214,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0215,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0216,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0217,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0218,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0219,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0220,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0221,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0222,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0223,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0224,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0225,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0226,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0227,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0228,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0229,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0230,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0231,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0232,Action Required,0.75,The sender is asking the recipient to renew something before the given deadline.
+MSG_0233,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0234,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0235,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0236,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0237,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0238,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0239,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0240,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0241,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0242,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0243,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0244,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0245,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0246,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0247,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0248,Personal Information,0.85,The message contains information about a personal emergency contact.
+MSG_0249,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0250,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0251,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0252,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0253,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0254,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0255,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0256,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0257,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0258,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0259,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0260,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0261,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0262,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0263,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0264,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0265,Action Required,0.75,The sender is asking the recipient to make a payment or pay a bill.
+MSG_0266,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0267,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0268,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0269,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0270,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0271,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0272,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0273,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0274,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0275,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0276,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0277,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0278,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0279,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0280,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0281,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0282,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0283,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0284,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0285,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0286,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0287,Action Required,0.75,The sender is asking the recipient to respond to a message or request.
+MSG_0288,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0289,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0290,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0291,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0292,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0293,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0294,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0295,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0296,Personal Information,0.85,The message contains information about a personal emergency contact.
+MSG_0297,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0298,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0299,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0300,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0301,Action Required,0.75,The sender is asking the recipient to respond to a message or request.
+MSG_0302,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0303,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0304,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0305,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0306,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0307,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0308,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0309,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0310,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0311,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0312,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0313,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0314,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0315,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0316,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0317,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0318,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0319,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0320,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0321,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0322,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0323,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0324,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0325,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0326,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0327,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0328,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0329,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0330,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0331,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0332,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0333,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0334,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0335,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0336,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0337,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0338,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0339,Action Required,0.75,The sender is asking the recipient to make a payment or pay a bill.
+MSG_0340,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0341,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0342,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0343,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0344,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0345,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0346,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0347,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0348,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0349,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0350,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0351,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0352,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0353,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0354,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0355,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0356,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0357,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0358,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0359,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0360,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0361,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0362,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0363,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0364,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0365,Action Required,0.75,The sender is asking the recipient to respond to a message or request.
+MSG_0366,Action Required,0.75,The sender is asking the recipient to respond to a message or request.
+MSG_0367,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0368,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0369,Action Required,0.75,The sender is asking the recipient to submit required work or information.
+MSG_0370,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0371,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0372,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0373,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0374,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0375,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0376,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0377,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0378,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0379,Action Required,0.75,The sender is asking the recipient to submit required work or information.
+MSG_0380,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0381,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0382,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0383,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0384,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0385,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0386,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0387,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0388,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0389,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0390,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0391,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0392,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0393,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0394,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0395,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0396,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0397,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0398,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0399,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0400,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0401,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0402,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0403,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0404,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0405,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0406,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0407,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0408,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0409,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0410,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0411,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0412,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0413,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0414,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0415,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0416,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0417,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0418,Action Required,0.75,The sender is asking the recipient to respond to a message or request.
+MSG_0419,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0420,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0421,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0422,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0423,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0424,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0425,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0426,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0427,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0428,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0429,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0430,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0431,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0432,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0433,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0434,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0435,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0436,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0437,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0438,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0439,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0440,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0441,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0442,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0443,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0444,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0445,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0446,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0447,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0448,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0449,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0450,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0451,Action Required,0.75,The sender is asking the recipient to respond to a message or request.
+MSG_0452,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0453,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0454,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0455,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0456,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0457,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0458,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0459,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0460,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0461,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0462,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0463,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0464,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0465,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0466,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0467,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0468,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0469,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0470,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0471,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0472,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0473,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0474,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0475,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0476,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0477,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0478,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0479,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0480,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0481,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0482,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0483,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0484,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0485,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0486,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0487,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0488,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0489,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0490,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0491,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0492,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0493,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0494,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0495,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0496,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0497,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0498,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0499,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0500,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0501,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0502,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0503,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0504,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0505,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0506,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0507,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0508,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0509,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0510,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0511,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0512,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0513,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0514,Personal Information,0.8,The message contains information about a personal emergency contact.
+MSG_0515,Action Required,0.75,The sender is asking the recipient to renew something before the given deadline.
+MSG_0516,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0517,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0518,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0519,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0520,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0521,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0522,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0523,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0524,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0525,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0526,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0527,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0528,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0529,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0530,Action Required,0.75,The sender is asking the recipient to submit required work or information.
+MSG_0531,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0532,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0533,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0534,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0535,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0536,Action Required,0.75,The sender is asking the recipient to make a payment or pay a bill.
+MSG_0537,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0538,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0539,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0540,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0541,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0542,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0543,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0544,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0545,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0546,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0547,Action Required,0.75,The sender is asking the recipient to submit required work or information.
+MSG_0548,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0549,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0550,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0551,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0552,Action Required,0.75,The sender is asking the recipient to submit required work or information.
+MSG_0553,Action Required,0.75,The sender is asking the recipient to renew something before the given deadline.
+MSG_0554,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0555,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0556,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0557,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0558,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0559,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0560,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0561,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0562,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0563,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0564,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0565,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0566,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0567,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0568,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0569,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0570,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0571,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0572,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0573,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0574,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0575,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0576,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0577,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0578,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0579,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0580,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0581,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0582,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0583,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0584,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0585,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0586,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0587,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0588,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0589,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0590,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0591,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0592,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0593,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0594,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0595,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0596,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0597,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0598,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0599,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0600,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0601,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0602,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0603,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0604,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0605,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0606,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0607,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0608,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0609,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0610,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0611,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0612,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0613,Personal Information,0.8,The message contains information about a personal emergency contact.
+MSG_0614,Action Required,0.75,The sender is asking the recipient to make a payment or pay a bill.
+MSG_0615,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0616,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0617,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0618,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0619,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0620,Action Required,0.75,The sender is asking the recipient to make a payment or pay a bill.
+MSG_0621,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0622,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0623,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0624,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0625,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0626,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0627,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0628,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0629,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0630,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0631,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0632,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0633,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0634,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0635,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0636,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0637,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0638,Action Required,0.75,The sender is asking the recipient to renew something before the given deadline.
+MSG_0639,Action Required,0.75,The sender is asking the recipient to submit required work or information.
+MSG_0640,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0641,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0642,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0643,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0644,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0645,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0646,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0647,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0648,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0649,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0650,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0651,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0652,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0653,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0654,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0655,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0656,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0657,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0658,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0659,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0660,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0661,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0662,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0663,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0664,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0665,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0666,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0667,Action Required,0.75,The sender is asking the recipient to make a payment or pay a bill.
+MSG_0668,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0669,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0670,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0671,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0672,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0673,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0674,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0675,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0676,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0677,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0678,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0679,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0680,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0681,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0682,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0683,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0684,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0685,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0686,Personal Information,0.8,The message contains information about a personal emergency contact.
+MSG_0687,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0688,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0689,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0690,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0691,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0692,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0693,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0694,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0695,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0696,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0697,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0698,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0699,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0700,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0701,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0702,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0703,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0704,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0705,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0706,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0707,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0708,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0709,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0710,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0711,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0712,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0713,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0714,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0715,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0716,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0717,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0718,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0719,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0720,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0721,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0722,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0723,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0724,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0725,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0726,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0727,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0728,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0729,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0730,Action Required,0.75,The sender is asking the recipient to submit required work or information.
+MSG_0731,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0732,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0733,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0734,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0735,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0736,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0737,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0738,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0739,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0740,Action Required,0.75,The sender is asking the recipient to renew something before the given deadline.
+MSG_0741,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0742,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0743,Action Required,0.75,The sender is asking the recipient to make a payment or pay a bill.
+MSG_0744,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0745,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0746,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0747,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0748,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0749,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0750,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0751,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0752,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0753,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0754,Action Required,0.75,The sender is asking the recipient to make a payment or pay a bill.
+MSG_0755,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0756,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0757,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0758,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0759,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0760,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0761,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0762,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0763,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0764,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0765,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0766,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0767,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0768,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0769,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0770,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0771,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0772,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0773,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0774,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0775,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0776,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0777,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0778,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0779,Action Required,0.75,The sender is asking the recipient to respond to a message or request.
+MSG_0780,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0781,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0782,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0783,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0784,Action Required,0.75,The sender is asking the recipient to respond to a message or request.
+MSG_0785,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0786,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0787,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0788,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0789,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0790,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0791,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0792,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0793,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0794,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0795,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0796,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0797,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0798,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0799,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0800,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0801,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0802,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0803,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0804,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0805,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0806,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0807,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0808,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0809,Action Required,0.75,The sender is asking the recipient to make a payment or pay a bill.
+MSG_0810,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0811,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0812,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0813,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0814,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0815,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0816,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0817,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0818,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0819,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0820,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0821,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0822,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0823,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0824,Action Required,0.75,The sender is asking the recipient to submit required work or information.
+MSG_0825,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0826,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0827,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0828,Promotional,0.75,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0829,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0830,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0831,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0832,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0833,Personal Information,0.8,The message contains information about a personal emergency contact.
+MSG_0834,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0835,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0836,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0837,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0838,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0839,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0840,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0841,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0842,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0843,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0844,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0845,Meeting or Event,0.8,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0846,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0847,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0848,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0849,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0850,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0851,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0852,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0853,Action Required,0.75,The sender is asking the recipient to respond to a message or request.
+MSG_0854,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0855,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0856,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0857,Personal Information,0.85,The message contains information about a personal emergency contact.
+MSG_0858,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0859,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0860,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0861,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0862,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0863,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0864,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0865,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0866,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0867,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0868,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0869,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0870,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0871,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0872,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0873,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0874,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0875,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0876,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0877,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0878,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0879,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0880,Sensitive Information,0.75,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0881,Promotional,0.85,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0882,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0883,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0884,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0885,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0886,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0887,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0888,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0889,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0890,Sensitive Information,0.8,"The message contains potentially sensitive personal, financial, authentication, or health information."
+MSG_0891,Personal Information,0.75,The message contains a personal detail about the sender.
+MSG_0892,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0893,Action Required,0.75,The sender is asking the recipient to review something or complete a review before a deadline.
+MSG_0894,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0895,Meeting or Event,0.75,"The message refers to a scheduled meeting, event, appointment, or planned activity."
+MSG_0896,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0897,Promotional,0.8,"The message promotes a product, service, discount, sale, or promotional offer."
+MSG_0898,Action Required,0.75,The sender is asking the recipient to perform a specific action.
+MSG_0899,General Information,0.75,The message provides general information or an update without requesting a specific action.
+MSG_0900,General Information,0.75,The message provides general information or an update without requesting a specific action.
