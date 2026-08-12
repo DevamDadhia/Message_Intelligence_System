@@ -3,7 +3,9 @@ from pathlib import Path
 
 import pandas as pd
 import streamlit as st
-
+st.title("Message Intelligence System")
+st.success("NEW APP VERSION IS RUNNING")
+st.write("Version: 12-Aug-2026")
 # -------------------------------------------------
 # Page configuration
 # -------------------------------------------------
